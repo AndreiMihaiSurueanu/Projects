@@ -3,6 +3,7 @@
   - Internship 101 and Memory Palace Game projects contain documentation
   - Memory Palace Game and Racing Multiplayer Game SGM Course Project require UnityDownloadAssistant-2017.3.1f1 version in order to run smoothly.
   - Memory Palace Game contains an apk file in the project folder to run on your Android Mobile device.
+  - Memory Palace Game contains a link to a YouTube video in the project folder in the "MPG YouTube Video.txt" file
   
 
  # Instructions for setting up the Internship 101 project:
