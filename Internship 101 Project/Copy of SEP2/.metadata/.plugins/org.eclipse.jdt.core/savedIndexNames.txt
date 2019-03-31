@@ -1,0 +1,21 @@
+INDEX VERSION 1.127+C:\Users\surue\Desktop\Copy of SEP2\.metadata\.plugins\org.eclipse.jdt.core
+2792014688.index
+800990617.index
+3996652127.index
+4106043722.index
+1205403174.index
+1218799509.index
+426729909.index
+3407857388.index
+2100311185.index
+3705025092.index
+23676141.index
+3403726099.index
+3758185376.index
+2204409548.index
+3439430021.index
+2040313113.index
+1443724565.index
+4191367913.index
+368326462.index
+2545510373.index
