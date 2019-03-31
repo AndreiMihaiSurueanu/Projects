@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing Multiplayer Game SGM Course Project.Plugins", "Racing Multiplayer Game SGM Course Project.Plugins.csproj", "{78ABEF6F-2C6C-9E89-A2E7-CD5B27173333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing Multiplayer Game SGM Course Project", "Racing Multiplayer Game SGM Course Project.csproj", "{CABD4B86-F342-CA24-23F8-41D548F26B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing Multiplayer Game SGM Course Project.Editor.Plugins", "Racing Multiplayer Game SGM Course Project.Editor.Plugins.csproj", "{3E62AEFA-936C-6F73-EED6-D02A1BCCA388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78ABEF6F-2C6C-9E89-A2E7-CD5B27173333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78ABEF6F-2C6C-9E89-A2E7-CD5B27173333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78ABEF6F-2C6C-9E89-A2E7-CD5B27173333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78ABEF6F-2C6C-9E89-A2E7-CD5B27173333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CABD4B86-F342-CA24-23F8-41D548F26B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABD4B86-F342-CA24-23F8-41D548F26B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABD4B86-F342-CA24-23F8-41D548F26B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABD4B86-F342-CA24-23F8-41D548F26B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E62AEFA-936C-6F73-EED6-D02A1BCCA388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E62AEFA-936C-6F73-EED6-D02A1BCCA388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E62AEFA-936C-6F73-EED6-D02A1BCCA388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E62AEFA-936C-6F73-EED6-D02A1BCCA388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
